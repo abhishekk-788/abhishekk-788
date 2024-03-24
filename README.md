@@ -9,6 +9,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have made lot of mistakes in my life still I learn and keep smiling :)
 
+  ![](https://komarev.com/ghpvc/?username=abhishekk-788)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -55,7 +57,7 @@
 <p align = "center">
   
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/abhishek788/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/immaverick.ak)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/im_maverick.ak)
 
 
 <br>
