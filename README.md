@@ -1,7 +1,7 @@
 ### Hi there, This is Abhishek👋
 
 - 🔭 I’m looking for ... SDE/Full Stack Developer roles
-- 🌱 I’m currently a Software Engineer at Persistent. Experience in Technologies like Java, Springboot, Nodejs and MongoDB.
+- 🌱 I’m currently a Software Engineer at Persistent. Experience in Technologies like Javascript, Nodejs, Reactjs and MongoDB.
 - 🔥  I have made projects on App Development(Flutter + Firebase) and Web Development (MERN)
 - 💪🏻 Fitness Enthusiast
 - 💬 Ask me about Anything
@@ -54,8 +54,8 @@
 
 <p align = "center">
   
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/abhishek-kumar-3a813b169/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/decipher_ak/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/abhishek788/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/immaverick.ak)
 
 
 <br>
