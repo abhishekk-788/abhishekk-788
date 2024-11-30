@@ -1,8 +1,8 @@
 ### Hi there, This is Abhishek👋
 
 - 🔭 I’m looking for ... SDE/Full Stack Developer roles
-- 🌱 I’m currently a Software Engineer at Persistent. Experience in Technologies like Javascript, Nodejs, Reactjs, Kubernetes, Docker and MongoDB.
-- 🔥  I have made projects on MERN, Backend Development.
+- 🌱 I’m currently a Software Engineer at Persistent. Experience in Technologies like Javascript, Nodejs, Reactjs, Nextjs, Kubernetes, Docker and MongoDB.
+- 🔥 I have made projects on MERN, Backend Development. Do checkout my projects.
 - 💪🏻 Fitness Enthusiast
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abhishek788/)
@@ -17,8 +17,8 @@
   <a href="https://github.com/abhishekk-788/payment-subscription">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekk-788&repo=payment-subscription&theme=vision-friendly-dark" alt="Payment-Subscription Repository"/>
   </a>
-  <a href="https://github.com/abhishekk-788/netflix-gpt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekk-788&repo=netflix-gpt&theme=vision-friendly-dark" alt="Netflix-GPT Repository"/>
+  <a href="https://github.com/abhishekk-788/speak-easy.ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekk-788&repo=speak-easy.ai&theme=vision-friendly-dark" alt="speak-easy.ai Repository"/>
   </a>
 </p>
 
